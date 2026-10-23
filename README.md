@@ -1,4 +1,4 @@
-# USF MSDS 694 Class Example Repository 
+# USF DSAI 694 Class Example Repository 
 
 ## Learning Objectives
 This course is an introductory level class for processing large volume of data using Apache Spark, a distributed computing framework. In this course, students will will learn concepts of distributed computing and practice running codes using Apache Spark with various hands-on activities.
